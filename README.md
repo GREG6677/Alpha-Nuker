@@ -1,6 +1,5 @@
 # Alpha Nuker
 
-![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
 
 ## Features:
 1. `Mass Create Channels`

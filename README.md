@@ -32,10 +32,6 @@
 2. Go to the "Bot" section and scroll down till you see "Privileged Gateway Intents".
 3. Select both **Presence Intent**, **Server Members Intent** and **Message Content Intents**. 
 
-### Example
-
-![intents](https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400)
-
 
 ### Linux Set-up:
 

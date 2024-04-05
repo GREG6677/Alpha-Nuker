@@ -61,7 +61,6 @@
 ### Extra:
 * `disableEveryone` | Default set to `true`, add your user ID | Makes sure no one else can use the tool. Set to `false` if you wish.  
 
-> ![disable](https://media.discordapp.net/attachments/840525480331575328/886693417369890826/unknown.png)
 
 ## Start-up:
 
@@ -76,7 +75,6 @@ Also I'd recommend only mass pinging till the server reaches to 3k pings. Any mo
 
 ## Contact Me
 
-﹒[Discord](https://discord.com/users/358310460187082763)
-﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
-﹒[Telegram](https://t.me/clairvoyant7teen)
-﹒[Steam](https://steamcommunity.com/id/seven777teen/)
+﹒[Discord](https://discord.gg/fQXQZG5hvX)
+﹒[Telegram](https://t.me/IWCommunityDiscord)
+﹒[Shop](https://iwcommunity.sellpass.io/)

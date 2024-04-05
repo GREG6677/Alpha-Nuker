@@ -1,4 +1,5 @@
 # Alpha Nuker
+![Capture d’écran 2024-04-05 185042](https://github.com/IWcommunityFR/Alpha-Nuker/assets/158751385/49026b33-4d77-4f44-a462-2851b5c0fb7b)
 
 ## Features:
 1. `Mass Create Channels`
